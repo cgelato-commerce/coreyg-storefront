@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/cgelato-commerce/coreyg-storefront/
+    type: markup
+
+folders:
+  /products/: /products/default
